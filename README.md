@@ -14,3 +14,7 @@ See [README.md](./200/README.md)
 ## 300 - Develop a Blog with Jekyll
 
 See [README.md](./300/README.md)
+
+## 400 - Update a Blog with Jekyll
+
+See [README.md](./400/README.md)
