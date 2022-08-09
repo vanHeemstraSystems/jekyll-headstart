@@ -18,4 +18,4 @@ At this point, technically we are done with the MVP. There now exists a very bas
 
 ![van-heemstra-systems-github-io](https://user-images.githubusercontent.com/1499433/183774236-a0604a1a-75bf-42c3-821e-be9139a124d7.png)
 
-Notice, i a previous attemp, I already did some styling and edited some text.
+Notice, in a previous attemp, I already did some styling and edited some text.
