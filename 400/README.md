@@ -27,5 +27,5 @@ create mode 100644 FirstPost.md
 $ git push --set-upstream origin feature/firstpost
 ```
 
-Nothing appears on our blog at first.  This is because pages is set to a branch spec (in our case "main"):
+Nothing appears on [our blog](https://vanheemstrasystems.github.io) at first.  This is because pages is set to a branch spec (in our case "main"):
 
