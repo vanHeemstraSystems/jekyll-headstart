@@ -27,5 +27,7 @@ create mode 100644 FirstPost.md
 $ git push --set-upstream origin feature/firstpost
 ```
 
-Nothing appears on [our blog](https://vanheemstrasystems.github.io) at first.  This is because pages is set to a branch spec (in our case "main"):
+Nothing appears on [our blog](https://vanheemstrasystems.github.io) at first.  This is because pages is set to a branch spec (in our case "main/master"):
+
+![build-from-master](https://user-images.githubusercontent.com/1499433/183781093-25653bd6-578a-4b5c-84e2-5626faf532bb.png)
 
