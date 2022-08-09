@@ -35,3 +35,14 @@ So let's Pull Request (PR) our changes back to main/master branch.
 
 We can go to the Pull Request (PR) page where we are prompted to make a PR:
 
+![new-pull-request](https://user-images.githubusercontent.com/1499433/183781468-76c6da60-57a8-478e-ad52-35f99d801110.png)
+
+Create the PR.
+
+
+
+
+
+
+
+More ...
