@@ -37,9 +37,9 @@ We can go to the Pull Request (PR) page where we are prompted to make a PR:
 
 ![new-pull-request](https://user-images.githubusercontent.com/1499433/183781468-76c6da60-57a8-478e-ad52-35f99d801110.png)
 
-Create the PR.
+Create the PR by clicking **Compare and pull request**.
 
-
+![create-pull-request](https://user-images.githubusercontent.com/1499433/183781806-dff67380-c653-4a3c-9b7f-5ca4a337645e.png)
 
 
 
