@@ -31,3 +31,7 @@ Nothing appears on [our blog](https://vanheemstrasystems.github.io) at first.  T
 
 ![build-from-master](https://user-images.githubusercontent.com/1499433/183781093-25653bd6-578a-4b5c-84e2-5626faf532bb.png)
 
+So let's Pull Request (PR) our changes back to main/master branch.  
+
+We can go to the Pull Request (PR) page where we are prompted to make a PR:
+
