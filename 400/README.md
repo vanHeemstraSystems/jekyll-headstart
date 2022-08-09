@@ -15,3 +15,17 @@ $ git branch
 $ git checkout -b feature/firstpost
 Switched to a new branch 'feature/firstpost'
 ```
+
+In Visual Studio Code, we can now create a new file called "**FirstPost.md**", add some content to it, and push it.
+
+```
+$ git add FirstPost.md
+$ git commit -m "My first post"
+[feature/firstpost b5ebdd6] My first post
+1 file changed, 3 insertions(+)
+create mode 100644 FirstPost.md
+$ git push --set-upstream origin feature/firstpost
+```
+
+Nothing appears on our blog at first.  This is because pages is set to a branch spec (in our case "main"):
+
