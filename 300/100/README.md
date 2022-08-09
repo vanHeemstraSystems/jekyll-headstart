@@ -10,7 +10,7 @@ Notice, in my case this repo already existed.
 
 You'll also want to set it to public if you want people to be able to see it.
 
-https://github.com/vanHeemstraSystems/jekyll-headstart/issues/2#issue-1333857158
+![who-has-access](https://user-images.githubusercontent.com/1499433/183773774-8bbbd638-44d4-443f-a696-d65e26f06cf8.png)
 
 In my case it is already public.
 
