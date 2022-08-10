@@ -43,9 +43,9 @@ Create the PR by clicking **Compare & pull request**.
 
 Enter some descriptive text and click **Create pull request**.
 
-Then if there are no conflicts we can merge right away:
+Then if there are no conflicts we can merge right away, by clicking **Merge pull request**:
 
-
+![merge-pull-request](https://user-images.githubusercontent.com/1499433/183782223-1e392f8d-8baf-441f-8b49-7c4a712eb0cb.png)
 
 
 More ...
