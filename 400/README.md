@@ -53,7 +53,7 @@ which moves it to merged.
 
 Leave a comment (or not) and click **Close with comment**.
 
-![closed](https://user-images.githubusercontent.com/1499433/183783028-8e4c0d7f-03bb-46c7-a942-6044f85dc68f.png)
+![closed](https://user-images.githubusercontent.com/1499433/183783498-03e75cad-a7c0-4823-ac6d-dc801c95516e.png)
 
 
 
