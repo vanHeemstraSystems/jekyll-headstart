@@ -47,5 +47,8 @@ Then if there are no conflicts we can merge right away, by clicking **Merge pull
 
 ![merge-pull-request](https://user-images.githubusercontent.com/1499433/183782223-1e392f8d-8baf-441f-8b49-7c4a712eb0cb.png)
 
+which moves it to merged and closed.
+
+
 
 More ...
