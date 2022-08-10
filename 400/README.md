@@ -51,7 +51,7 @@ which moves it to merged.
 
 ![close-with-comment](https://user-images.githubusercontent.com/1499433/183782710-d8e5357d-132c-4fc9-8303-920ffb92deef.png)
 
-Leave a comment (or not) and click **close**.
+Leave a comment (or not) and click **Close with comment**.
 
 
 
